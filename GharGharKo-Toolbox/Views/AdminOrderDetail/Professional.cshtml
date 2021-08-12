@@ -1,0 +1,102 @@
+﻿@model List<GharToolBax.ViewModels.ProfessionalListViewModel>
+
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+
+<div class="site-section bg-light">
+    <div class="container">
+        <div class="row mb-5">
+            <div class="col-12 text-center">
+                <h3 class="section-sub-title">
+                    <a href="/Professional/CreateProfessional"> Professsional Create</a>
+                </h3>
+
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-12">
+
+
+                <div class="table-responsive">
+                    <table class="table table-bordered">
+                        <tr>
+                            <th>
+                                S.No
+                            </th>
+                            <th>
+                                Name
+                            </th>
+                     
+
+                            <th>
+                                Phone
+                            </th>
+                            <th>
+                                Address
+                            </th>
+                       
+
+                            <th>
+                                Skills
+                            </th>
+                            <th> 
+                                Action
+                            </th>
+
+                        </tr>
+                        <tbody>
+                            @{ int i = 0;}
+                            @foreach (var item in Model)
+                            {
+                                i++;
+                                <tr>
+                                    <td>@i</td>
+
+                                    <td>@item.Name</td>
+                               
+                                    <td>@item.Phone</td>
+                                    <td>@item.Address</td>
+                                    
+
+                                    <td>@item.Skills</td>
+                                 
+                                    <td>
+                                        <a href="@Url.Action("ProfessionalDeletion","Professional", new { @id=item.Id})" class="btn btn-danger">Delete</a>
+                                        <a href="@Url.Action("ProfessionalUpdate","Professional", new { @id=item.Id})" class="btn btn-success">Update</a>
+                                    </td>
+
+
+
+                                </tr>
+                            }
+                        </tbody>
+
+
+                    </table>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+
+
+</div>
+
+@*<script src="~/js/jquery-3.3.1.min.js"></script>
+    <script src="~/js/UserValidation.js"></script>*@
+<script type="text/javascript">
+    console.log("javascript is working");
+</script>
+
+
+
+

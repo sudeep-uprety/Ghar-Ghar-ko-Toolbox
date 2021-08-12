@@ -1,0 +1,187 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Home-Ghar Gharko Tool-Box</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+    <link href="https://fonts.googleapis.com//css?family=Muli:300,400,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="/fonts/icomoon/style.css">
+    <link rel="stylesheet" href="~/css/bootstrap/bootstrap.css" />
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/jquery-ui.css">
+    <link rel="stylesheet" href="/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="/css/owl.theme.default.min.css">
+
+    <link rel="stylesheet" href="/css/jquery.fancybox.min.css">
+
+    <link rel="stylesheet" href="/css/bootstrap-datepicker.css">
+
+    <link rel="stylesheet" href="/fonts/flaticon/font/flaticon.css">
+
+    <link rel="stylesheet" href="/css/aos.css">
+
+    <link rel="stylesheet" href="/css/style.css">
+
+
+    <script type="text/javascript">
+
+    </script>
+
+</head>
+<body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+    <div class="site-wrap">
+
+
+
+        <header class="site-navbar bg-white js-sticky-header site-navbar-target" role="banner">
+
+            <div class="container">
+                <div class="row align-items-center">
+
+                    @*<div class="col-6 col-xl-2">
+                        <a href="/"> <img src="~/images/ghar-logo.jpg" style="height:40px;width:60px" alt="home-logo" class="img-fluid"> </a>
+                    </div>*@
+                    <div class="col-12 col-md-10 d-none d-xl-block">
+                        <nav class="site-navigation position-relative text-right" role="navigation">
+                            <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
+                                <li><a href="/" class="nav-link">Home</a></li>
+
+                                <li><a href="#contact-section" class="nav-link">Contact</a></li>
+
+                                @if (GharToolBax.Common.UserSession.LoggedUserId == 0)
+                                {
+                                    <li><a href="@Url.Action("create", "User")" class="btn btn-outline-success">User Registration</a></li>
+
+                                    <li>
+                                        <a href="@Url.Action("Index", "Login")" class="dropdown-item nav-link">Login</a>
+                                    </li>
+                                }
+                                else
+                                {
+                                    <li>
+                                        <button id="btnGroupDrop1" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            Account
+                                        </button>
+                                        <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+
+                                           
+                                            @if (GharToolBax.Common.UserSession.UserInfoViewModel.Role == GharToolBax.DB.Role.User)
+                                            {
+                                                 <a class="dropdown-item nav-link" href="@Url.Action("Index", "User")">View Profile</a>
+                                                <a class="dropdown-item nav-link" href="@Url.Action("UserOrder", "Home")">My Order</a>
+                                            }
+                                            @if (GharToolBax.Common.UserSession.UserInfoViewModel.Role == GharToolBax.DB.Role.Admin)
+                                            {
+                                                <a class="dropdown-item nav-link" href="@Url.Action("Home", "AdminOrderDetail")">Dashboard</a>
+                                            }
+                                            <a class="dropdown-item nav-link" href="@Url.Action("LogOut", "Login")">Log Out</a>
+                                        </div>
+                                    </li>
+                                }
+                            </ul>
+
+                        </nav>
+                    </div>
+                </div>
+
+
+                <div class="col-6 d-inline-block d-xl-none ml-md-0 py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-black float-right"><span class="icon-menu h3"></span></a></div>
+
+            </div>
+
+
+        </header>
+        @*<div class="site-blocks-cover overlay" style="background-image: url(/ServiceImages/Background.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
+   
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+
+                    <div class="col-md-12" data-aos="fade-up" data-aos-delay="400">
+
+                        <div class="row mb-4">
+                            <div class="col-md-10">
+                                <h1>Service With Us</h1>
+                           
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>*@
+
+
+        @RenderBody()
+
+        <footer class="site-footer bg-white">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8">
+                        <div class="row">
+                            <div class="col-md-5">
+                                <h2 class="footer-heading mb-4">About Us</h2>
+                                <p>Ghar Ghar ko tool-box is service paltform with a motto of providing home service.</p>
+                            </div>
+                            <div class="col-md-3 ">
+                                <h2 class="footer-heading mb-4">Quick Links</h2>
+                                <ul class="list-unstyled">
+                                    <li><a href="#">About Us</a></li>
+                                    <li><a href="#">Services</a></li>
+                                    @*<li><a href="#">Testimonials</a></li>*@
+                                    <li><a href="#">Contact Us</a></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-md-3 ml-auto">
+                        <h2 class="footer-heading mb-4">Contact Us</h2>
+                        <p class="mb-0">
+                            <span class="mr-3"><a href="tel://#"> <span class="icon-phone mr-2" style="position: relative; top: 2px;"></span><span class="d-none d-lg-inline-block text-black">(+977) 986 567 9101</span></a></span>
+                        </p>
+                        <p class="mb-0">
+                            <span><a href="#"><span class="icon-envelope mr-2" style="position: relative; top: 2px;"></span><span class="d-none d-lg-inline-block text-black"> GharToolBox@gmail.com</span></a></span>
+                        </p>
+                    </div>
+                </div>
+                @*<div class="row pt-5 mt-5 text-center">
+                    <div class="col-md-12">
+                        <div class="border-top pt-5">
+                            <p>
+
+                                Copyright &copy;
+                                <script>document.write(new Date().getFullYear());</script> All rights reserved | Ghar Ghar ko Tool-Box
+
+                            </p>
+                        </div>
+                    </div>
+
+                </div>*@
+            </div>
+        </footer>
+    </div>
+    <script src="/js/jquery-3.3.1.min.js"></script>
+    <script src="/js/jquery-migrate-3.0.1.min.js"></script>
+    <script src="/js/jquery-ui.js"></script>
+    <script src="/js/popper.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/owl.carousel.min.js"></script>
+    <script src="/js/jquery.stellar.min.js"></script>
+    <script src="/js/jquery.countdown.min.js"></script>
+    <script src="/js/bootstrap-datepicker.min.js"></script>
+    <script src="/js/jquery.easing.1.3.js"></script>
+    <script src="/js/aos.js"></script>
+    <script src="/js/jquery.fancybox.min.js"></script>
+    <script src="/js/jquery.sticky.js"></script>
+
+    <script src="~/js/UserValidation.js"></script>
+
+
+    <script src="/js/main.js"></script>
+
+
+</body>
+</html>

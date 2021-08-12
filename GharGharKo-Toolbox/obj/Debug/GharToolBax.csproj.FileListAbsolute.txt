@@ -1,0 +1,660 @@
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\GharToolBax.dll.config
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\GharToolBax.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\GharToolBax.pdb
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\csc.exe
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\csc.exe.config
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\csc.rsp
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\csi.exe
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\csi.exe.config
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\csi.rsp
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.AppContext.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.Console.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.IO.Compression.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.Security.Claims.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.ValueTuple.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\vbc.exe
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\vbc.exe.config
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\vbc.rsp
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\VBCSCompiler.exe
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\Antlr3.Runtime.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\EntityFramework.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\EntityFramework.SqlServer.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\Newtonsoft.Json.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\System.Web.Helpers.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\System.Web.Mvc.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\System.Web.Optimization.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\System.Web.Razor.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\System.Web.WebPages.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\System.Web.WebPages.Razor.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\WebGrease.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\EntityFramework.xml
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\EntityFramework.SqlServer.xml
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\System.Web.Helpers.xml
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\System.Web.Mvc.xml
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\System.Web.Optimization.xml
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\System.Web.Razor.xml
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\System.Web.WebPages.xml
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\System.Web.WebPages.Razor.xml
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\Newtonsoft.Json.xml
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\Antlr3.Runtime.pdb
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csprojAssemblyReference.cache
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csproj.CoreCompileInputs.cache
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csproj.CopyComplete
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\obj\Debug\GharToolBax.dll
+C:\Users\Riddhasoft-007\source\repos\GharToolBax\GharToolBax\obj\Debug\GharToolBax.pdb
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\GharToolBax.dll.config
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\GharToolBax.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\GharToolBax.pdb
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\csc.exe
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\csc.exe.config
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\csc.rsp
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\csi.exe
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\csi.exe.config
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\csi.rsp
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.Console.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\vbc.exe
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\vbc.rsp
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csproj.CopyComplete
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\obj\Debug\GharToolBax.dll
+C:\Users\Dell\Desktop\sql 642014\GharToolBax\GharToolBax\obj\Debug\GharToolBax.pdb
+F:\copiedFromC\GharToolBax\GharToolBax\bin\GharToolBax.dll.config
+F:\copiedFromC\GharToolBax\GharToolBax\bin\GharToolBax.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\GharToolBax.pdb
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\csc.exe
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\csc.exe.config
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\csc.rsp
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\csi.exe
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\csi.exe.config
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\csi.rsp
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\Microsoft.Managed.Core.targets
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.AppContext.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.Collections.Immutable.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.Console.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.IO.Compression.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.IO.FileSystem.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.IO.Pipes.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.Reflection.Metadata.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.Security.AccessControl.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.Security.Claims.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.Security.Principal.Windows.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.ValueTuple.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XmlDocument.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XPath.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\vbc.exe
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\vbc.exe.config
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\vbc.rsp
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\VBCSCompiler.exe
+F:\copiedFromC\GharToolBax\GharToolBax\bin\roslyn\VBCSCompiler.exe.config
+F:\copiedFromC\GharToolBax\GharToolBax\bin\Microsoft.VisualStudio.Web.BrowserLink.12.0.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\EnvDTE.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\stdole.dll
+F:\copiedFromC\GharToolBax\GharToolBax\bin\Microsoft.VisualStudio.Web.BrowserLink.12.0.xml
+F:\copiedFromC\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csproj.CoreCompileInputs.cache
+F:\copiedFromC\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csproj.CopyComplete
+F:\copiedFromC\GharToolBax\GharToolBax\obj\Debug\GharToolBax.dll
+F:\copiedFromC\GharToolBax\GharToolBax\obj\Debug\GharToolBax.pdb
+F:\copiedFromC\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csprojAssemblyReference.cache
+E:\C#\GharToolBax\GharToolBax\bin\GharToolBax.dll.config
+E:\C#\GharToolBax\GharToolBax\bin\GharToolBax.dll
+E:\C#\GharToolBax\GharToolBax\bin\GharToolBax.pdb
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\csc.exe
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\csc.exe.config
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\csc.rsp
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\csi.exe
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\csi.exe.config
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\csi.rsp
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\Microsoft.Managed.Core.targets
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.AppContext.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.Collections.Immutable.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.Console.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.IO.Compression.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.IO.FileSystem.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.IO.Pipes.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.Reflection.Metadata.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.Security.AccessControl.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.Security.Claims.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.Security.Principal.Windows.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.ValueTuple.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XmlDocument.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XPath.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\vbc.exe
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\vbc.exe.config
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\vbc.rsp
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\VBCSCompiler.exe
+E:\C#\GharToolBax\GharToolBax\bin\roslyn\VBCSCompiler.exe.config
+E:\C#\GharToolBax\GharToolBax\bin\Microsoft.VisualStudio.Web.BrowserLink.12.0.dll
+E:\C#\GharToolBax\GharToolBax\bin\EnvDTE.dll
+E:\C#\GharToolBax\GharToolBax\bin\stdole.dll
+E:\C#\GharToolBax\GharToolBax\bin\Microsoft.VisualStudio.Web.BrowserLink.12.0.xml
+E:\C#\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csprojAssemblyReference.cache
+E:\C#\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csproj.CoreCompileInputs.cache
+E:\C#\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csproj.CopyComplete
+E:\C#\GharToolBax\GharToolBax\obj\Debug\GharToolBax.dll
+E:\C#\GharToolBax\GharToolBax\obj\Debug\GharToolBax.pdb
+E:\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csproj.CoreCompileInputs.cache
+E:\GharToolBax\GharToolBax\obj\Debug\GharToolBax.dll
+E:\GharToolBax\GharToolBax\obj\Debug\GharToolBax.pdb
+E:\GharToolBax\GharToolBax\bin\GharToolBax.dll.config
+E:\GharToolBax\GharToolBax\bin\GharToolBax.dll
+E:\GharToolBax\GharToolBax\bin\GharToolBax.pdb
+E:\GharToolBax\GharToolBax\bin\roslyn\csc.exe
+E:\GharToolBax\GharToolBax\bin\roslyn\csc.exe.config
+E:\GharToolBax\GharToolBax\bin\roslyn\csc.rsp
+E:\GharToolBax\GharToolBax\bin\roslyn\csi.exe
+E:\GharToolBax\GharToolBax\bin\roslyn\csi.exe.config
+E:\GharToolBax\GharToolBax\bin\roslyn\csi.rsp
+E:\GharToolBax\GharToolBax\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GharToolBax\GharToolBax\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\Microsoft.Managed.Core.targets
+E:\GharToolBax\GharToolBax\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GharToolBax\GharToolBax\bin\roslyn\System.AppContext.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.Collections.Immutable.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.Console.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.IO.Compression.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.IO.FileSystem.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.IO.Pipes.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.Reflection.Metadata.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.Security.AccessControl.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.Security.Claims.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.Security.Principal.Windows.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.ValueTuple.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XmlDocument.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XPath.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\GharToolBax\GharToolBax\bin\roslyn\vbc.exe
+E:\GharToolBax\GharToolBax\bin\roslyn\vbc.exe.config
+E:\GharToolBax\GharToolBax\bin\roslyn\vbc.rsp
+E:\GharToolBax\GharToolBax\bin\roslyn\VBCSCompiler.exe
+E:\GharToolBax\GharToolBax\bin\roslyn\VBCSCompiler.exe.config
+E:\GharToolBax\GharToolBax\bin\Microsoft.VisualStudio.Web.BrowserLink.12.0.dll
+E:\GharToolBax\GharToolBax\bin\EnvDTE.dll
+E:\GharToolBax\GharToolBax\bin\stdole.dll
+E:\GharToolBax\GharToolBax\bin\Microsoft.VisualStudio.Web.BrowserLink.12.0.xml
+E:\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csproj.CopyComplete
+E:\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csprojAssemblyReference.cache
+F:\GharToolBax\GharToolBax\GharToolBax\bin\GharToolBax.dll.config
+F:\GharToolBax\GharToolBax\GharToolBax\bin\GharToolBax.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\GharToolBax.pdb
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\csc.exe
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\csc.exe.config
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\csc.rsp
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\csi.exe
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\csi.exe.config
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\csi.rsp
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\Microsoft.Managed.Core.targets
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.AppContext.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Collections.Immutable.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Console.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.IO.Compression.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.IO.FileSystem.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.IO.Pipes.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Reflection.Metadata.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Security.AccessControl.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Security.Claims.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Security.Principal.Windows.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.ValueTuple.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XmlDocument.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XPath.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\vbc.exe
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\vbc.exe.config
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\vbc.rsp
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\VBCSCompiler.exe
+F:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\VBCSCompiler.exe.config
+F:\GharToolBax\GharToolBax\GharToolBax\bin\Microsoft.VisualStudio.Web.BrowserLink.12.0.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\EnvDTE.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\stdole.dll
+F:\GharToolBax\GharToolBax\GharToolBax\bin\Microsoft.VisualStudio.Web.BrowserLink.12.0.xml
+F:\GharToolBax\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csprojAssemblyReference.cache
+F:\GharToolBax\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csproj.CoreCompileInputs.cache
+F:\GharToolBax\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csproj.CopyComplete
+F:\GharToolBax\GharToolBax\GharToolBax\obj\Debug\GharToolBax.dll
+F:\GharToolBax\GharToolBax\GharToolBax\obj\Debug\GharToolBax.pdb
+D:\GharToolBax\GharToolBax\GharToolBax\bin\GharToolBax.dll.config
+D:\GharToolBax\GharToolBax\GharToolBax\bin\GharToolBax.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\GharToolBax.pdb
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\csc.exe
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\csc.exe.config
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\csc.rsp
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\csi.exe
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\csi.exe.config
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\csi.rsp
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\Microsoft.Managed.Core.targets
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.AppContext.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Collections.Immutable.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Console.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.IO.Compression.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.IO.FileSystem.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.IO.Pipes.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Reflection.Metadata.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Security.AccessControl.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Security.Claims.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Security.Principal.Windows.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.ValueTuple.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XPath.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\vbc.exe
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\vbc.exe.config
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\vbc.rsp
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\VBCSCompiler.exe
+D:\GharToolBax\GharToolBax\GharToolBax\bin\roslyn\VBCSCompiler.exe.config
+D:\GharToolBax\GharToolBax\GharToolBax\bin\Microsoft.VisualStudio.Web.BrowserLink.12.0.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\EnvDTE.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\stdole.dll
+D:\GharToolBax\GharToolBax\GharToolBax\bin\Microsoft.VisualStudio.Web.BrowserLink.12.0.xml
+D:\GharToolBax\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csprojAssemblyReference.cache
+D:\GharToolBax\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csproj.CoreCompileInputs.cache
+D:\GharToolBax\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csproj.CopyComplete
+D:\GharToolBax\GharToolBax\GharToolBax\obj\Debug\GharToolBax.dll
+D:\GharToolBax\GharToolBax\GharToolBax\obj\Debug\GharToolBax.pdb
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\GharToolBax.dll.config
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\GharToolBax.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\GharToolBax.pdb
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\csc.exe
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\csc.exe.config
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\csc.rsp
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\csi.exe
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\csi.exe.config
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\csi.rsp
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.Console.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\vbc.exe
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\vbc.rsp
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\Microsoft.VisualStudio.Web.BrowserLink.12.0.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\EnvDTE.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\stdole.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\bin\Microsoft.VisualStudio.Web.BrowserLink.12.0.xml
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csproj.CopyComplete
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\obj\Debug\GharToolBax.dll
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\obj\Debug\GharToolBax.pdb
+C:\Users\Dell\Desktop\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csprojAssemblyReference.cache
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csprojAssemblyReference.cache
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\obj\Debug\GharToolBax.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\obj\Debug\GharToolBax.pdb
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\GharToolBax.dll.config
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\GharToolBax.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\GharToolBax.pdb
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\csc.exe
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\csc.exe.config
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\csc.rsp
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\csi.exe
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\csi.exe.config
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\csi.rsp
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.Console.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\vbc.exe
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\vbc.rsp
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\Microsoft.VisualStudio.Web.BrowserLink.12.0.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\EnvDTE.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\stdole.dll
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\bin\Microsoft.VisualStudio.Web.BrowserLink.12.0.xml
+C:\Users\Lenovo-Pc\Downloads\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csproj.CopyComplete
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\GharToolBax.dll.config
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\GharToolBax.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\GharToolBax.pdb
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\csc.exe
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\csc.exe.config
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\csc.rsp
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\csi.exe
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\csi.exe.config
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\csi.rsp
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.Console.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\vbc.exe
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\vbc.rsp
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\Microsoft.VisualStudio.Web.BrowserLink.12.0.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\EnvDTE.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\stdole.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\bin\Microsoft.VisualStudio.Web.BrowserLink.12.0.xml
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csprojAssemblyReference.cache
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csproj.CopyComplete
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\obj\Debug\GharToolBax.dll
+C:\Users\Dell\Pictures\Camera Roll\GharToolBax\GharToolBax\obj\Debug\GharToolBax.pdb
+F:\GharToolBax\GharToolBax\bin\GharToolBax.dll.config
+F:\GharToolBax\GharToolBax\bin\GharToolBax.dll
+F:\GharToolBax\GharToolBax\bin\GharToolBax.pdb
+F:\GharToolBax\GharToolBax\bin\roslyn\csc.exe
+F:\GharToolBax\GharToolBax\bin\roslyn\csc.exe.config
+F:\GharToolBax\GharToolBax\bin\roslyn\csc.rsp
+F:\GharToolBax\GharToolBax\bin\roslyn\csi.exe
+F:\GharToolBax\GharToolBax\bin\roslyn\csi.exe.config
+F:\GharToolBax\GharToolBax\bin\roslyn\csi.rsp
+F:\GharToolBax\GharToolBax\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\GharToolBax\GharToolBax\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\Microsoft.Managed.Core.targets
+F:\GharToolBax\GharToolBax\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\GharToolBax\GharToolBax\bin\roslyn\System.AppContext.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.Collections.Immutable.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.Console.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.IO.Compression.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.IO.FileSystem.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.IO.Pipes.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.Reflection.Metadata.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.Security.AccessControl.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.Security.Claims.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.Security.Principal.Windows.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.ValueTuple.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XmlDocument.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XPath.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\GharToolBax\GharToolBax\bin\roslyn\vbc.exe
+F:\GharToolBax\GharToolBax\bin\roslyn\vbc.exe.config
+F:\GharToolBax\GharToolBax\bin\roslyn\vbc.rsp
+F:\GharToolBax\GharToolBax\bin\roslyn\VBCSCompiler.exe
+F:\GharToolBax\GharToolBax\bin\roslyn\VBCSCompiler.exe.config
+F:\GharToolBax\GharToolBax\bin\Microsoft.VisualStudio.Web.BrowserLink.12.0.dll
+F:\GharToolBax\GharToolBax\bin\EnvDTE.dll
+F:\GharToolBax\GharToolBax\bin\stdole.dll
+F:\GharToolBax\GharToolBax\bin\Microsoft.VisualStudio.Web.BrowserLink.12.0.xml
+F:\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csprojAssemblyReference.cache
+F:\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csproj.CoreCompileInputs.cache
+F:\GharToolBax\GharToolBax\obj\Debug\GharToolBax.csproj.CopyComplete
+F:\GharToolBax\GharToolBax\obj\Debug\GharToolBax.dll
+F:\GharToolBax\GharToolBax\obj\Debug\GharToolBax.pdb

@@ -1,0 +1,76 @@
+﻿
+@model GharToolBax.ViewModels.LoginViewModel
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+
+
+
+
+<div class="site-section bg-light">
+    <div class="container">
+        <div class="row mb-5">
+            <div class="col-12 text-center">
+                <h3 class="section-sub-title">Login</h3>
+
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-md-4 mb-5">
+
+
+
+
+                @using (Html.BeginForm())
+                {
+
+                    <div class="row form-group">
+                        <div class="col-md-12">
+                            <label class="text-black" for="name">UserName</label>
+
+                            @Html.TextBoxFor(model => model.UserName, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+
+                        </div>
+                        <div class="col-md-12">
+                            <label class="text-black" for="password">Password</label>
+                            @Html.PasswordFor(model => model.Password, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+
+
+                        </div>
+
+
+                        <div class="col-md-12 mt-2">
+
+
+                            <button type="submit" class="btn btn-block">Login</button>
+                        </div>
+                    </div>
+
+
+
+
+
+
+
+
+
+                }
+
+            </div>
+        </div>
+
+    </div>
+
+
+
+</div>
+
+
+

@@ -1,0 +1,46 @@
+﻿@model GharToolBax.ViewModels.OrderPlaceViewModel
+@{
+    ViewBag.Title = "OrderPlaceBook";
+    <a href="~/Views/OrderPlace/OrderPlaceBook.cshtml">~/Views/OrderPlace/OrderPlaceBook.cshtml</a>
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>OrderPlaceBook</h2>
+
+
+@*<table class="table table-bordered">
+    <thead>
+        <tr>
+            <td>S.No</td>
+            <td>Service Name</td>
+            <td>Action</td>
+
+        </tr>
+
+
+    </thead>
+
+    <tbody>
+        @{ int i = 0;}
+        @foreach (var item in Model)
+        {
+            i++;
+
+
+            <tr>
+                <td>@i</td>
+                <td>@item.S</td>
+                <td>
+                    <a href="@Url.Action("OrderPlaceDetail","OrderPlace", new { @id=item.Id})" class="btn btn-danger">OrderPlace</a>
+                    <a href="@Url.Action("Update","Service", new { @id=item.Id})" class="btn btn-success">Update</a>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+
+
+
+
+    }*@
+

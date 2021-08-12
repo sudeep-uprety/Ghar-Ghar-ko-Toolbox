@@ -1,0 +1,103 @@
+﻿@model GharToolBax.ViewModels.ServiceUpdateViewModel
+@{
+    ViewBag.Title = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="site-section bg-light">
+    <div class="container">
+        <div class="row mb-5">
+            <div class="col-12 text-center">
+                <h3 class="section-sub-title">
+                    Service Update
+                </h3>
+
+            </div>
+        </div>
+
+
+
+
+
+
+
+        <form method="post" enctype="multipart/form-data">
+            <div class="site-section bg-light">
+                <div class="container">
+                    <div class="row mb-5">
+                        <div class="col-12 text-center">
+                            <h3 class="section-sub-title"></h3>
+
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="mb-5">
+
+
+
+
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                            <div class="form-group">
+                                <div class="col-md-12">
+                                    <label class="text-black" for="name">Service Name</label>
+
+                                    @Html.TextBoxFor(model => model.ServiceName, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.ServiceName, "", new { @class = "text-danger" })
+
+                                </div>
+                            <div class="clearfix"></div>
+                            <br />
+                                <div class="col-md-12">
+                                    <label class="text-black" for="name"> Image</label>
+
+                                    <input type="file" name="ImageUrl" id="" />
+
+
+                                </div>
+                            </div>
+                        <div class="col-md-12">
+                                <label class="text-black" for="name">Category</label>
+
+                                @Html.EnumDropDownListFor(model => model.Category, new { @class = "form-control" })
+                                @Html.ValidationMessageFor(model => model.Category, "", new { @class = "text-danger" })
+
+                            
+                        </div>
+
+
+                            <div class="col-md-12">
+                                <label class="text-black" for="name">IsActive</label>
+                                @Html.CheckBoxFor(model => model.IsActive)
+                                @Html.ValidationMessageFor(model => model.IsActive, "", new { @class = "" })
+
+                            </div>
+                            <div class="col-md-6 col-md-offset-5">
+
+                                <button type="submit" class="btn btn-outline-primary">Update</button>
+                            </div>
+
+
+
+
+                        </div>
+
+
+                    </div>
+
+                </div>
+            </div>
+
+
+        </form>
+
+
+    </div>
+</div>
+
+
+
+
+
+
+

@@ -1,0 +1,89 @@
+﻿@*@model List<GharToolBax.ViewModels.ProfessionalListViewModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ProfessionalList</h2>
+<br />
+<a href="/Professional/CreateProfessional"> Create Services</a>
+@*<p>
+    @Html.ActionLink("Create New", "Create")
+</p>*@
+@*<div class="table-responsive">
+<table class="table table-bordered">
+    <tr>
+        <th>
+            S.No
+        </th>
+        <th>
+            Name
+        </th>
+        <th>
+            Email
+        </th>
+
+        <th>
+            Phone
+        </th>
+        <th>
+            Address
+        </th>
+        <th>
+            Gender
+        </th>
+        <th>
+            City
+        </th>
+      
+        <th>
+            Skills
+        </th>
+    
+    </tr>
+    <tbody>
+        @{ int i = 0;}
+        @foreach (var item in Model)
+        {
+            i++;
+            <tr>*@
+                @*<th scope="row">@item.Id</th>*@
+<td>
+    @*@i</td>*@
+
+
+                @*<td>@item.Name</td>
+                    <td>@item.Email</td>
+                    <td>@item.Phone</td>
+                    <td>@item.Address</td>
+                    <td>@item.Gender</td>
+                    <td>@item.City</td>
+                    <td>@item.Skills</td>*@
+
+
+                @*<a href="@Url.Action("ProfessionalDeletion","Professional", new { @id=item.Id})" class="btn btn-danger">Delete</a>
+                    <a href="@Url.Action("ProfessionalUpdate","Professional", new { @id=item.Id})" class="btn btn-success">Update</a>*@
+
+
+
+
+                @*<td>
+
+                        <a href="@Url.Action("Create","Hiring", new { @id=item.Id})" class="btn btn-success">Hire Service</a>
+
+
+                    </td>*@
+                @*</tr>
+                            }
+                        </tbody>
+
+
+                    </table>
+                    </div>
+
+                    <script src="~/js/jquery-3.3.1.min.js"></script>
+                    <script src="~/js/UserValidation.js"></script>
+                    <script type="text/javascript">
+                        console.log("javascript is working");
+                    </script>*@

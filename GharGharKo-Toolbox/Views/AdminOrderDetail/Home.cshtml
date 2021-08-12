@@ -1,0 +1,101 @@
+﻿
+@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    #products-section {
+        background-image: url('../../ServiceImages/Adminlogo.jpg');
+        
+        background-size: cover;
+    }
+
+   
+
+</style>
+<div class="site-section" id="products-section">
+    <div class="container">
+        <div class="row mb-5 justify-content-center">
+            <div class="col-md-6 text-center">
+                <h1 style="color:black"> Admin Dashboard</h1>
+
+            </div>
+        </div>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <div class="row">
+
+            <div class="col-lg-4 col-md-6 mb-5">
+                <div class="product-item">
+                    @*<figure>
+                        <img src="~/images/cleaner.jpg" alt="Image" class="img-fluid" style="height:300px;width:300px">
+                    </figure>*@
+                    <div class="px-4">
+                        <h1><a href="/AdminOrderDetail/Index">Order Details</a></h1>
+                        <div>
+
+
+
+                            <a href="/AdminOrderDetail/Index" class="btn btn-black mr-1 rounded-0">View</a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 mb-5">
+                <div class="product-item">
+
+                    <h1><a href="/AdminOrderDetail/Professional">Professionals</a></h1>
+
+                    <div>
+                        <a href="/AdminOrderDetail/Professional" class="btn btn-black mr-1 rounded-0">View</a>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 mb-5">
+            <div class="product-item">
+
+                <div class="px-4">
+                    <h1><a href="/AdminOrderDetail/ServicesList">Our Services</a></h1>
+                    <div>
+
+                        <a href="/AdminOrderDetail/ServicesList" class="btn btn-black mr-1 rounded-0">View</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 mb-5">
+            <div class="product-item">
+
+                <div class="px-4">
+                    <h1><a href="@Url.Action("UsersList")">Users List</a></h1>
+                    <div>
+
+                        <a href="@Url.Action("UsersList")" class="btn btn-black mr-1 rounded-0">View</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+
+
+    </div>
+</div>
+
+
+

@@ -1,0 +1,138 @@
+﻿@model GharToolBax.ViewModels.UserInfoViewModel
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+
+<h2>Create</h2>
+
+<form method="post" enctype="multipart/form-data">
+
+    <div class="site-section bg-light">
+        <div class="container">
+            <div class="row mb-5">
+                <div class="col-12 text-center">
+                    <h3 class="section-sub-title">User Registration</h3>
+
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="mb-5">
+
+
+
+
+
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <label class="text-black" for="name">Full Name</label>
+
+                            @Html.TextBoxFor(model => model.Name, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <label class="text-black" for="Email">Email</label>
+                            @Html.TextBoxFor(model => model.Email, "", new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+
+
+                        </div>
+                    </div>
+                    <div class="form-group">
+
+                        <div class="col-md-12">
+                            <label class="text-black" for="Password">Password</label>
+                            @Html.PasswordFor(model => model.Password, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+
+
+                        </div>
+                        <div class="form-group">
+
+
+                        </div>
+                        <div class="form-group">
+                            <div class="col-md-12">
+                                <label class="text-black" for="Address">Address</label>
+                                @Html.TextBoxFor(model => model.Address, "", new { @class = "form-control" })
+                                @Html.ValidationMessageFor(model => model.Address, "", new { @class = "text-danger" })
+
+
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-md-12">
+                                <label class="text-black" for="phone">Phone</label>
+                                @Html.TextBoxFor(model => model.Phone, "", new { @class = "form-control" })
+                                @Html.ValidationMessageFor(model => model.Phone, "", new { @class = "text-danger" })
+
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-6">
+                                <label class="text-black">Gender</label>
+                                <div class="form-check-label">
+                                    <div class="form-check-inline">
+                                        <label class="radio-container">
+                                            <input type="radio" checked="checked" name="gender" value="male">
+                                            <span class="checkmark"></span>
+                                            Male
+                                        </label>
+                                    </div>
+                                    <div class="form-check-inline">
+                                        <label class="radio-container">
+                                            <input type="radio" name="gender" value="female">
+                                            <span class="checkmark"></span>
+                                            Female
+                                        </label>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-12">
+                                <label class="text-black" for="remark">Remark</label>
+                                @Html.TextAreaFor(model => model.Remark, new { @class = "form-control ", placeholder = "Write your notes or questions here..." })
+                                @Html.ValidationMessageFor(model => model.Remark, "", new { @class = "text-danger" })
+
+                            </div>
+                            <div class="clearfix"></div>
+                            <br />
+                            <div class="col-md-12 col-md-offset-5">
+                                <label class="text-black" for="Image">
+                                    Image
+                                    <input type="file" class="alert-dark" name="ImageUrl" id="" />
+                                </label>
+
+                            </div>
+
+
+
+
+                            <div class="col-md-12 mt-2">
+
+
+                                <button type="submit" class="btn btn-block">Register</button>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        }
+
+
+
+    </div>
+</form>

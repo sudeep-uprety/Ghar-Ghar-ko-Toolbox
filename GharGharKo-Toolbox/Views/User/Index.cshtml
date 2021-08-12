@@ -1,0 +1,96 @@
+﻿@model GharToolBax.ViewModels.UserInfoUpdateViewModal
+    ViewBag.Title = "UserUpdate";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<form method="post" enctype="multipart/form-data">
+
+    <div class="site-section bg-light">
+        <div class="container">
+            <div class="row mb-5">
+                <div class="col-12 text-center">
+                    <h3 class="section-sub-title">My Profile</h3>
+
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="mb-5">
+
+
+
+
+
+                    @*<div class="col-md-12 col-md-offset-5">
+                        <label class="text-black" for="Image">
+                            <img src="@Model.ImageUrl" width="200px" height="200px" />
+                        </label>
+
+                    </div>*@
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <label class="text-black" for="name">Full Name</label>
+
+                            @Html.TextBoxFor(model => model.Name, new { @class = "form-control", @readonly = "readonly" })
+                            @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+
+                        </div>
+                    </div>
+
+
+
+
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <label class="text-black" for="Address">Address</label>
+                            @Html.TextBoxFor(model => model.Address, "", new { @class = "form-control", @readonly = "readonly" })
+                            @Html.ValidationMessageFor(model => model.Address, "", new { @class = "text-danger" })
+
+
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <label class="text-black" for="phone">Phone</label>
+                            @Html.TextBoxFor(model => model.Phone, "", new { @class = "form-control", @readonly = "readonly" })
+                            @Html.ValidationMessageFor(model => model.Phone, "", new { @class = "text-danger" })
+
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <label class="text-black" for="remark">Remark</label>
+                            @Html.TextAreaFor(model => model.Remark, new { @class = "form-control ", placeholder = "Write your notes or questions here...", @readonly = "readonly" })
+                            @Html.ValidationMessageFor(model => model.Remark, "", new { @class = "text-danger" })
+
+                        </div>
+
+                    </div>
+                    <div class="clearfix"></div>
+                    <br />
+
+
+
+
+
+                    <div class="col-md-12 mt-2">
+
+
+                        <a href="@Url.Action("UserUpdate")" class="btn btn-block">Update Profile</a>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+    
+    }
+
+
+
+
+</form>
+
+

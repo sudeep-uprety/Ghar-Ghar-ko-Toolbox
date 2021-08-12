@@ -1,0 +1,54 @@
+﻿@model List<GharToolBax.ViewModels.ServicesListViewModel>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Services List</h2>
+
+<br />
+<a href="/Service/CreateService"> Create Services</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <td>S.No</td>
+            <td>Service Name</td>
+            <td>Image</td>
+            <td>Category</td>
+            <td>IsActive</td>
+            <td>Action</td>
+
+        </tr>
+
+
+    </thead>
+   
+    <tbody>
+        @{ int i = 0;}
+        @foreach (var item in Model)
+        {
+            i++;
+
+
+            <tr>
+                <td>@i</td>
+                <td>@item.ServiceName</td>
+                <td>
+                    <a href="@Url.Action("DeleteService","Service", new { @id=item.Id})" class="btn btn-danger">Delete</a>
+                    <a href="@Url.Action("Update","Service", new { @id=item.Id})" class="btn btn-success">Update</a>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+
+   
+
+   
+    }
+   
+
+
+</table>
+
